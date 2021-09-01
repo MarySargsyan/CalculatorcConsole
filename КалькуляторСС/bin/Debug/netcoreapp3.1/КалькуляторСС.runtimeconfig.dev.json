@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SL120\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SL120\\.nuget\\packages",
+      "D:\\DX\\Offline Packages",
+      "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+    ]
+  }
+}

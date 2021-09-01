@@ -1,0 +1,13 @@
+C:\Users\SL120\source\repos\КалькуляторСС\КалькуляторСС\bin\Debug\netcoreapp3.1\КалькуляторСС.exe
+C:\Users\SL120\source\repos\КалькуляторСС\КалькуляторСС\bin\Debug\netcoreapp3.1\КалькуляторСС.deps.json
+C:\Users\SL120\source\repos\КалькуляторСС\КалькуляторСС\bin\Debug\netcoreapp3.1\КалькуляторСС.runtimeconfig.json
+C:\Users\SL120\source\repos\КалькуляторСС\КалькуляторСС\bin\Debug\netcoreapp3.1\КалькуляторСС.runtimeconfig.dev.json
+C:\Users\SL120\source\repos\КалькуляторСС\КалькуляторСС\bin\Debug\netcoreapp3.1\КалькуляторСС.dll
+C:\Users\SL120\source\repos\КалькуляторСС\КалькуляторСС\bin\Debug\netcoreapp3.1\КалькуляторСС.pdb
+C:\Users\SL120\source\repos\КалькуляторСС\КалькуляторСС\obj\Debug\netcoreapp3.1\КалькуляторСС.csprojAssemblyReference.cache
+C:\Users\SL120\source\repos\КалькуляторСС\КалькуляторСС\obj\Debug\netcoreapp3.1\КалькуляторСС.AssemblyInfoInputs.cache
+C:\Users\SL120\source\repos\КалькуляторСС\КалькуляторСС\obj\Debug\netcoreapp3.1\КалькуляторСС.AssemblyInfo.cs
+C:\Users\SL120\source\repos\КалькуляторСС\КалькуляторСС\obj\Debug\netcoreapp3.1\КалькуляторСС.csproj.CoreCompileInputs.cache
+C:\Users\SL120\source\repos\КалькуляторСС\КалькуляторСС\obj\Debug\netcoreapp3.1\КалькуляторСС.dll
+C:\Users\SL120\source\repos\КалькуляторСС\КалькуляторСС\obj\Debug\netcoreapp3.1\КалькуляторСС.pdb
+C:\Users\SL120\source\repos\КалькуляторСС\КалькуляторСС\obj\Debug\netcoreapp3.1\КалькуляторСС.genruntimeconfig.cache
